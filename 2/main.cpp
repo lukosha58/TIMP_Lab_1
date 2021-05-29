@@ -2,7 +2,6 @@
 #include <string>
 #include <locale>
 #include "encrypt.h"
-//#include <codecvt>
 using namespace std;
 
 int main()
